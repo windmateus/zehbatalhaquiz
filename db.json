@@ -1,33 +1,55 @@
 {
     "bg": "https://1.bp.blogspot.com/-OV8CBUCHacY/X9eYJ0IdW5I/AAAAAAAAC4o/23Pz5V5LjIcDl4ciJeyY7MLL9NBJaf8-ACLcBGAsYHQ/w400-h225/ragnar02-firstbattle.jpg?resize=1536%2C1208&ssl=1",
-    "title": "Quiz CSS da Alura",
-    "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
+    "title": "ZehBatalhaQuiz",
+    "description": "Quiz do BLOG Zé Batalha Finanças, Tecnologia e Perseverança",
     "questions": [
       {
-        "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-        "title": "Como fazer um seletor por id via CSS?",
-        "description": "Essa é pra aquecer",
+        "image": "https://1.bp.blogspot.com/-VneXvSx2vIY/Xf6Zj5J5AWI/AAAAAAAACWI/X6d-PaVrey8sGO7hLQjqzZNAvb6251wkACLcBGAsYHQ/s1600/big-short02.jpg",
+        "title": "Como começar uma reserva de emergência?",
+        "description": "",
         "answer": 2,
         "alternatives": [
-          ".elemento",
-          "*elemento",
-          "#elemento",
-          "%elemento"
+          "Pega com Agiota",
+          "Pra que reserva?",
+          "Gastando menos do que ganha"
         ]
       },
       {
         "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-        "title": "Como fazer um background gradiente com css?",
-        "description": "Faz tempo em haha",
+        "title": "De modo geral, quanto mais jovem mais:",
+        "description": "",
         "answer": 0,
         "alternatives": [
-           "background: linear-gradient(#e66465, #9198e5);",
-           "background: gradient(#e66465, #9198e5);"
+           "Renda variável",
+           "Renda fixa"
         ]
-      }
+      },
+      {
+        "image": "https://1.bp.blogspot.com/-1M8wZrjtpFI/X7CVhkpsTBI/AAAAAAAAC2E/LKMlz6P79MsF4V3U7zNYQG_fZpZsdCajwCLcBGAsYHQ/s301/moeda-digital.jpg",
+        "title": "Qual a alternativa tradicional para controle de inflação?",
+        "description": "",
+        "answer": 1,
+        "alternatives": [
+           "Diminuir juros",
+           "Aumentar juros",
+           "Deixar rolar"
+        ]
+      },
+      {
+        "image": "https://1.bp.blogspot.com/-Thosg0lqzcg/X9Vf9iJMJNI/AAAAAAAAC4I/RrUI3ALFnTA-qXDWFkqEOE6kDp5KEqYowCLcBGAsYHQ/s500/ragnar04-batalha.jpg",
+        "title": "A base de uma estratégia de longo prazo é que as cotações",
+        "description": "",
+        "answer": 1,
+        "alternatives": [
+           "Acompanham os custos",
+           "Acompanham os lucros",
+           "Acompanham o ROE"
+        ]
+      }      
     ],
     "external": [
-      ""
+      "https://aluraquiz-css.omariosouto.vercel.app/",
+      "https://aluraquiz-devsoutinho.omariosouto.vercel.app/"
     ],
     "theme": {
       "colors": {
